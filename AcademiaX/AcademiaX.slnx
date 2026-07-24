@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AcademiaX.Core/AcademiaX.Core.csproj" />
+  <Project Path="AcademiaX.Infrastructure/AcademiaX.Infrastructure.csproj" />
+  <Project Path="AcademiaX.Web/AcademiaX.Web.csproj" />
+</Solution>
