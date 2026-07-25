@@ -1,0 +1,13 @@
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\bin\Debug\net10.0\AcademiaX.Core.deps.json
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\bin\Debug\net10.0\AcademiaX.Core.dll
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\bin\Debug\net10.0\AcademiaX.Core.pdb
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\AcademiaX.Core.csproj.AssemblyReference.cache
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\AcademiaX.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\AcademiaX.Core.AssemblyInfoInputs.cache
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\AcademiaX.Core.AssemblyInfo.cs
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\AcademiaX.Core.csproj.CoreCompileInputs.cache
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\AcademiaX.Core.sourcelink.json
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\AcademiaX.Core.dll
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\refint\AcademiaX.Core.dll
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\AcademiaX.Core.pdb
+C:\Users\ym051\Desktop\AcademiaX\AcademiaX\AcademiaX.Core\obj\Debug\net10.0\ref\AcademiaX.Core.dll
